@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Windows Boot (GNOME)
+Comment=Reboot into Windows (UEFI one-time boot, GNOME)
+Exec=sudo /usr/local/bin/windowsboot-gnome
+Icon=distributor-logo-windows
+Terminal=false
+Categories=System;
+StartupNotify=true
