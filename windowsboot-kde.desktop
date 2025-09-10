@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Windows Boot
+Comment=Reboot into Windows (UEFI one-time boot)
+Exec=/home/alyx/windowsboot-wrapper.sh
+Icon=system-reboot
+Terminal=false
+Type=Application
+Categories=System;
