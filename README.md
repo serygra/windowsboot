@@ -1,6 +1,9 @@
 # WindowsBoot Launcher for Linux
 
-A Python utility + desktop launcher that lets you reboot into Windows once from Linux (UEFI dual-boot systems).
+A Python utility + desktop launcher that lets you reboot into Windows once from Linux (UEFI dual-boot systems). 
+I made this tool because I primary boot Nobara (KDE) and occasionally need to switch to Windows for gaming.
+I made this configurable for GNOME as well since it just seemed like a few extra steps.
+Making this public because I am 90% confident this works... USE AT YOUR OWN RISK!!!!!!!!!!
 
 This script automatically detects your desktop environment:
 - KDE Plasma → uses kdialog
